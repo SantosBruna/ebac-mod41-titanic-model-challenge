@@ -215,6 +215,12 @@ O XGBoost com hiperparâmetros superou o SVM nesta base, sendo o modelo selecion
 
 ---
 
+## Evidência de Submissão no Kaggle
+A imagem abaixo mostra minha submissão na competição *Titanic - Machine Learning from Disaster*, com pontuação pública de **0.75358**.
+
+![Submissão Kaggle](prints/kaggle.png)
+
+
 ## 👩‍💻 Autora
 
 **Bruna S. R. Santos**
